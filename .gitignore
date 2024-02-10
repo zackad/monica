@@ -28,3 +28,13 @@ monicadump.sql
 npm-debug.log*
 php-extensions-*.tar.bz2
 yarn-error.log
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
